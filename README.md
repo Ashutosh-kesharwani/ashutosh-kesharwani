@@ -37,13 +37,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Highlights
+
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=onedark&column=6&margin-w=15"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh-kesharwani&theme=tokyonight" />
 </p>
+
 
 
 ---
