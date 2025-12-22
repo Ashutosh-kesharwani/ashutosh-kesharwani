@@ -44,6 +44,22 @@
 </p>
 
 
+## 🧠 Problem Solving & Engineering Mindset
+
+- 🧩 Active on **LeetCode** — focused on DSA & logic building  
+- ⚙️ Comfortable with **clean architecture & modular code**  
+- 🔍 Debug-first mindset — performance & edge cases matter  
+- 📈 Continuous learner — improving code quality with every project
+
+---
+
+## 📌 GitHub Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ashutosh-kesharwani?style=for-the-badge&label=Followers"/>
+  <img src="https://img.shields.io/github/stars/ashutosh-kesharwani?style=for-the-badge&label=Stars"/>
+  <img src="https://img.shields.io/github/last-commit/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Last%20Commit"/>
+</p>
 
 ---
 
