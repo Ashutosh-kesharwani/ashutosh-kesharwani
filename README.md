@@ -38,10 +38,13 @@
 ---
 
 ## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=gruvbox&no-frame=true&margin-w=14&row=1"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=onedark&column=6&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
+
 
 ---
 
@@ -68,7 +71,7 @@
   <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
   <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
-  <img title="GSAP (GreenSock Animation Platform)" src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg" width="42"/>
+  <img title="GSAP (GreenSock Animation Platform)" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="42"/>
   <img title="Swiper.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiper/swiper-original.svg" width="42"/>
 </p>
 
@@ -97,11 +100,11 @@
 
 ### ☁️ Cloud & Tools
 <p>
-  <img title="AWS (Amazon Web Services)" src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" width="40"/>
-  <img title="Microsoft Azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/>
+  <img title="AWS (Amazon Web Services)" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="42"/>
+  <img title="Microsoft Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="42"/>
   <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img title="Git & Version Control" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
