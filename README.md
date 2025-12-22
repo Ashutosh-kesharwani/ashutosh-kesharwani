@@ -40,7 +40,7 @@
 ## 🏆 GitHub Achievements
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=onedark&column=6&margin-w=15&margin-h=15"
+    src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=onedark&column=6&margin-w=15"
     alt="GitHub Trophies"
   />
 </p>
