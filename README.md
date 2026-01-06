@@ -17,6 +17,10 @@
   and integrating intelligent ML systems with purpose-driven motion.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutosh-kesharwani&label=Profile%20Views&color=14CF93&style=for-the-badge" />
+</p>
+
 ---
 
 <!-- ===================================================== -->
@@ -43,13 +47,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh-kesharwani&theme=tokyonight" />
 </p>
 
+---
 
 ## 🧠 Problem Solving & Engineering Mindset
 
 - 🧩 Active on **LeetCode** — focused on DSA & logic building  
-- ⚙️ Comfortable with **clean architecture & modular code**  
+- ⚙️ Strong belief in **clean architecture & modular code**  
 - 🔍 Debug-first mindset — performance & edge cases matter  
-- 📈 Continuous learner — improving code quality with every project
+- 📈 Continuous learner — improving code quality with every project  
 
 ---
 
@@ -59,6 +64,11 @@
   <img src="https://img.shields.io/github/followers/ashutosh-kesharwani?style=for-the-badge&label=Followers"/>
   <img src="https://img.shields.io/github/stars/ashutosh-kesharwani?style=for-the-badge&label=Stars"/>
   <img src="https://img.shields.io/github/last-commit/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Last%20Commit"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Monthly%20Commits"/>
+  <img src="https://img.shields.io/github/issues-pr/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Open%20PRs"/>
 </p>
 
 ---
@@ -73,8 +83,9 @@
 - 🏆 **Top-10 Ranker** — *UHack (United College of Engineering & Research)*  
 - ☁️ Exploring **Cloud Databases, scalability & system design**
 
----
+> 💡 I focus on writing production-grade code — readable, scalable, and measurable.
 
+---
 
 ## 🛠️ Tech Stack  
 *(Hover on icons to see names)*
@@ -85,9 +96,9 @@
   <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
   <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img title="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42"/>
   <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
-  <img title="GSAP (GreenSock Animation Platform)" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="42"/>
-  <img title="Swiper.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swiper/swiper-original.svg" width="42"/>
+  <img title="GSAP" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="42"/>
 </p>
 
 ### ⚙️ Backend & APIs
@@ -95,7 +106,7 @@
   <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
   <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
   <img title="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/>
-  <img title="REST API Development" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="42"/>
+  <img title="REST APIs" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="42"/>
 </p>
 
 ### 🗄️ Databases
@@ -115,11 +126,12 @@
 
 ### ☁️ Cloud & Tools
 <p>
-  <img title="AWS (Amazon Web Services)" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="42"/>
-  <img title="Microsoft Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="42"/>
+  <img title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="42"/>
+  <img title="Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="42"/>
   <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
 </p>
 
 ---
