@@ -28,7 +28,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <a href="https://ashutoshshowcase.netlify.app" target="_blank">
+  <a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View_Live-14CF93?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb" target="_blank">
