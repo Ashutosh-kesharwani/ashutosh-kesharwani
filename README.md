@@ -1,7 +1,5 @@
 <!-- ===================================================== -->
-
 <!-- HERO / IDENTITY -->
-
 <!-- ===================================================== -->
 
 <p align="center">
@@ -14,7 +12,7 @@
 
 <p align="center">
   <b>Engineering scalable products, expressive interfaces, and intelligent systems.</b><br/>
-  I design with intent, code with structure, and ship with performance in mind.
+  Designing with intent · Coding with structure · Shipping with performance
 </p>
 
 <p align="center">
@@ -24,9 +22,7 @@
 ---
 
 <!-- ===================================================== -->
-
 <!-- NAVIGATION / PRESENCE -->
-
 <!-- ===================================================== -->
 
 <p align="center">
@@ -37,7 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/ashutoshkesharwani20021406/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-DSA_+_Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
@@ -45,13 +41,15 @@
 
 ## 🧭 Engineering Philosophy
 
-* **Product-first mindset** — code exists to solve real problems
-* **Architecture over hacks** — scalable, modular, testable systems
-* **Performance is a feature** — measured, optimized, monitored
-* **DX & UX matter** — clean APIs, smooth motion, intuitive flows
-* **Continuous iteration** — refactor, improve, evolve
+| Principle | What it means in practice |
+|---------|---------------------------|
+| 🧠 Product-first | Code must solve a real problem |
+| 🏗 Architecture | Modular, testable, scalable systems |
+| ⚡ Performance | Treated as a feature, not an afterthought |
+| 🎯 DX & UX | Clean APIs, smooth motion, predictable flows |
+| 🔁 Iteration | Ship → Measure → Improve |
 
-> *"Readable code scales better than clever code."*
+> _Readable code scales better than clever code._
 
 ---
 
@@ -66,73 +64,95 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutosh-kesharwani&theme=tokyonight" height="165"/>
 </p>
 
-* 🏆 **Top 10 Rank** — UHack (United College of Engineering & Research)
-* 💼 **Junior Associate (Software / Tech)** — production-level exposure
-* 🧠 Strong foundation in **ML, Data Science & System Thinking**
-* 🧩 Active **DSA & problem solver** with real-world application focus
+- 🏆 **Top 10 Rank** — UHack (United College of Engineering & Research)
+- 💼 **Junior Associate (Software / Tech)** — production-level exposure
+- 🧠 Strong foundation in **ML, Data Science & System Thinking**
+- 🧩 Active **DSA & problem solver** with applied logic focus
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Full Stack Engineer** with hands-on experience across frontend motion, backend systems, and ML-powered workflows. I enjoy building systems end-to-end — from UI micro-interactions to database design and model integration.
+I’m a **Full Stack Engineer** working across frontend motion, backend systems, and ML-powered workflows.  
+I enjoy building systems end-to-end — from UI micro-interactions to API design and data pipelines.
 
-* 🎓 Computer Science Engineering (ongoing)
-* 🏗️ Building **full-stack + ML-driven applications**
-* 🎨 Specialized in **UI motion, micro-interactions & UX clarity**
-* ☁️ Exploring **cloud databases, scalability & system design**
+- 🎓 Computer Science Engineering (ongoing)
+- 🏗️ Building **full-stack + ML-driven applications**
+- 🎨 Focused on **UI motion, micro-interactions & UX clarity**
+- ☁️ Exploring **cloud databases, scalability & system design**
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### 🌐 Frontend · UI · Motion
+### 🌐 Frontend Engineering · UI Motion · DX
+
+> **Frontend is not styling — it’s system design at the user boundary.**
+
+**What I focus on**
+- Motion that communicates intent (not decoration)
+- Component-driven architecture with predictable state
+- Performance-aware rendering & interaction handling
+- Accessibility and responsiveness by default
+
+**How I build**
+- GSAP-based micro-interactions (scroll, hover, feedback)
+- Reusable UI systems with React / Next.js
+- Utility-first consistency using Tailwind CSS
+- Clean separation of logic, motion, and presentation
 
 <p>
-  <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-  <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
-  <img title="JavaScript (ES6+)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
-  <img title="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42"/>
-  <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
-  <img title="GSAP" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="40"/>
 </p>
+
+---
 
 ### ⚙️ Backend · APIs · Architecture
 
-<p>
-  <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
-  <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
-  <img title="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/>
-  <img title="RESTful APIs" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="42"/>
-</p>
-
-### 🗄️ Databases · Storage
+- RESTful API design & integration
+- Node.js / Express for scalable services
+- Django for rapid, structured backend development
+- Authentication, validation & data integrity focus
 
 <p>
-  <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
-  <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
 </p>
+
+---
 
 ### 🤖 Machine Learning · Data
 
+- Data preprocessing & feature engineering
+- Classical ML models with real-world datasets
+- Model evaluation & optimization
+- ML integration into web workflows
+
 <p>
-  <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img title="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img title="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img title="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="38"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="38"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="38"/>
 </p>
+
+---
 
 ### ☁️ Cloud · DevOps · Tooling
 
 <p>
-  <img title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="42"/>
-  <img title="Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="42"/>
-  <img title="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img title="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img title="Jira" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="38"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38"/>
 </p>
 
 ---
@@ -147,18 +167,9 @@ I’m a **Full Stack Engineer** with hands-on experience across frontend motion,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-kesharwani&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=tokyo-night&hide_border=true"/>
@@ -168,10 +179,10 @@ I’m a **Full Stack Engineer** with hands-on experience across frontend motion,
 
 ## 📬 Let’s Build Something Meaningful
 
-* Open to **collaborations, internships & challenging problems**
-* Interested in **scalable products, ML systems & UI engineering**
+- Open to **collaborations, internships & challenging problems**
+- Interested in **scalable products, ML systems & UI engineering**
 
-> *Crafted with intent · Engineered for scale · Built to evolve.*
+> _Crafted with intent · Engineered for scale · Built to evolve._
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer&text=Ashutosh%20Kesharwani%20•%20Full%20Stack%20Engineer&fontSize=18&fontColor=14CF93"/>
