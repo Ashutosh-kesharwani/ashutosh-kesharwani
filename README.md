@@ -58,7 +58,12 @@
 ## 🏆 Professional Highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh-kesharwani&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutosh-kesharwani&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutosh-kesharwani&theme=tokyonight" height="165"/>
 </p>
 
 * 🏆 **Top 10 Rank** — UHack (United College of Engineering & Research)
@@ -143,7 +148,7 @@ I’m a **Full Stack Engineer** with hands-on experience across frontend motion,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
