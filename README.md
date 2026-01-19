@@ -1,5 +1,7 @@
 <!-- ===================================================== -->
-<!-- HERO SECTION -->
+
+<!-- HERO / IDENTITY -->
+
 <!-- ===================================================== -->
 
 <p align="center">
@@ -7,14 +9,12 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;ML+Enthusiast;UI+Motion+Engineer"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=780&lines=Full+Stack+Engineer;Machine+Learning+Practitioner;UI+Motion+%26+DX+Focused;Building+Scalable+Systems" />
 </p>
 
 <p align="center">
-  Designing performant web experiences, engineering scalable backends,<br/>
-  and integrating intelligent ML systems with purpose-driven motion.
+  <b>Engineering scalable products, expressive interfaces, and intelligent systems.</b><br/>
+  I design with intent, code with structure, and ship with performance in mind.
 </p>
 
 <p align="center">
@@ -24,98 +24,93 @@
 ---
 
 <!-- ===================================================== -->
-<!-- QUICK LINKS -->
+
+<!-- NAVIGATION / PRESENCE -->
+
 <!-- ===================================================== -->
 
 <p align="center">
   <a href="https://ashutosh-kesharwani.github.io/Ashutosh-Devspace/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Live-14CF93?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Projects-14CF93?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ashutosh-kesharwani-7370322bb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashutosh_Kesharwani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/ashutoshkesharwani20021406/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-DSA_+_Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Highlights
+## 🧭 Engineering Philosophy
+
+* **Product-first mindset** — code exists to solve real problems
+* **Architecture over hacks** — scalable, modular, testable systems
+* **Performance is a feature** — measured, optimized, monitored
+* **DX & UX matter** — clean APIs, smooth motion, intuitive flows
+* **Continuous iteration** — refactor, improve, evolve
+
+> *"Readable code scales better than clever code."*
+
+---
+
+## 🏆 Professional Highlights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutosh-kesharwani&theme=tokyonight" />
 </p>
 
----
-
-## 🧠 Problem Solving & Engineering Mindset
-
-- 🧩 Active on **LeetCode** — focused on DSA & logic building  
-- ⚙️ Strong belief in **clean architecture & modular code**  
-- 🔍 Debug-first mindset — performance & edge cases matter  
-- 📈 Continuous learner — improving code quality with every project  
-
----
-
-## 📌 GitHub Snapshot
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ashutosh-kesharwani?style=for-the-badge&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/ashutosh-kesharwani?style=for-the-badge&label=Stars"/>
-  <img src="https://img.shields.io/github/last-commit/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Last%20Commit"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Monthly%20Commits"/>
-  <img src="https://img.shields.io/github/issues-pr/ashutosh-kesharwani/ashutosh-kesharwani?style=for-the-badge&label=Open%20PRs"/>
-</p>
+* 🏆 **Top 10 Rank** — UHack (United College of Engineering & Research)
+* 💼 **Junior Associate (Software / Tech)** — production-level exposure
+* 🧠 Strong foundation in **ML, Data Science & System Thinking**
+* 🧩 Active **DSA & problem solver** with real-world application focus
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 **Junior Associate (Software / Tech Role)** — contributing to production systems  
-- 🎓 Computer Science Engineering student  
-- 🧠 Strong expertise in **Machine Learning & Data Science**  
-- 🎨 Passionate about **UI motion, micro-interactions & UX clarity**  
-- 🏗️ Builder of **full-stack + ML-powered applications**  
-- 🏆 **Top-10 Ranker** — *UHack (United College of Engineering & Research)*  
-- ☁️ Exploring **Cloud Databases, scalability & system design**
+I’m a **Full Stack Engineer** with hands-on experience across frontend motion, backend systems, and ML-powered workflows. I enjoy building systems end-to-end — from UI micro-interactions to database design and model integration.
 
-> 💡 I focus on writing production-grade code — readable, scalable, and measurable.
+* 🎓 Computer Science Engineering (ongoing)
+* 🏗️ Building **full-stack + ML-driven applications**
+* 🎨 Specialized in **UI motion, micro-interactions & UX clarity**
+* ☁️ Exploring **cloud databases, scalability & system design**
 
 ---
 
-## 🛠️ Tech Stack  
-*(Hover on icons to see names)*
+## 🛠️ Technical Arsenal
 
-### 🌐 Frontend & Motion
+### 🌐 Frontend · UI · Motion
+
 <p>
   <img title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
   <img title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
-  <img title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img title="JavaScript (ES6+)" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img title="React.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
   <img title="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42"/>
   <img title="Tailwind CSS" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
   <img title="GSAP" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="42"/>
 </p>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend · APIs · Architecture
+
 <p>
   <img title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
   <img title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
   <img title="Django" src="https://cdn.worldvectorlogo.com/logos/django.svg" width="42"/>
-  <img title="REST APIs" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="42"/>
+  <img title="RESTful APIs" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="42"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases · Storage
+
 <p>
   <img title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
   <img title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
 </p>
 
-### 🤖 Machine Learning / Data
+### 🤖 Machine Learning · Data
+
 <p>
   <img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
@@ -124,7 +119,8 @@
   <img title="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
 </p>
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud · DevOps · Tooling
+
 <p>
   <img title="AWS" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="42"/>
   <img title="Azure" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="42"/>
@@ -136,7 +132,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -152,7 +148,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=tokyo-night&hide_border=true"/>
@@ -160,10 +156,13 @@
 
 ---
 
-<!-- ===================================================== -->
-<!-- FOOTER -->
-<!-- ===================================================== -->
+## 📬 Let’s Build Something Meaningful
+
+* Open to **collaborations, internships & challenging problems**
+* Interested in **scalable products, ML systems & UI engineering**
+
+> *Crafted with intent · Engineered for scale · Built to evolve.*
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer&text=Crafted%20With%20Intent%20•%20Engineered%20For%20Scale&fontSize=18&fontColor=14CF93"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=120&section=footer&text=Ashutosh%20Kesharwani%20•%20Full%20Stack%20Engineer&fontSize=18&fontColor=14CF93"/>
 </p>
