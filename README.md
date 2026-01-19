@@ -151,6 +151,11 @@ I’m a **Full Stack Engineer** with hands-on experience across frontend motion,
   <img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+
 ---
 
 ## 📈 Contribution Graph
