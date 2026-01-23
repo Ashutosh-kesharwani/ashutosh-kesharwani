@@ -140,6 +140,7 @@ I build end-to-end products — from **micro-interactions** to **APIs & ML workf
 
 ## 📬 Let’s Collaborate
 
+
 - Open to **internships & collaborations**
 - Interested in **UI engineering, ML systems & scalable products**
 
