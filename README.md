@@ -6,6 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14CF93,50:0f2027,100:203a43&height=240&section=header&text=Ashutosh%20Kesharwani&fontSize=44&fontColor=14CF93&fontAlignY=38" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=760&lines=Frontend-First+Full+Stack+Engineer;UI+Motion+%26+DX+Specialist;ML-Enabled+Product+Builder" />
 </p>
