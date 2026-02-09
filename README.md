@@ -134,9 +134,7 @@ I build end-to-end products — from **micro-interactions** to **APIs & ML workf
   <img src="https://github-contribution-stats.vercel.app/api/?username=ashutosh-kesharwani" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/14CF93/ashutosh-kesharwani" />
-</p>
+
 
 
 <p align="center">
