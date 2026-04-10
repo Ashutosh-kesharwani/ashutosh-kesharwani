@@ -1,4 +1,3 @@
-
 <!-- ===================================================== -->
 <!-- HERO -->
 <!-- ===================================================== -->
@@ -6,18 +5,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14CF93,50:0f2027,100:203a43&height=240&section=header&text=Ashutosh%20Kesharwani&fontSize=44&fontColor=14CF93&fontAlignY=38" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=760&lines=Frontend-First+Full+Stack+Engineer;UI+Motion+%26+DX+Specialist;ML-Enabled+Product+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Backend+Engineer;ML-Driven+Product+Builder;Real-World+Problem+Solver" />
 </p>
 
-
 <p align="center">
-  <b>Designing expressive interfaces • Engineering scalable systems • Shipping with intent</b>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutosh-kesharwani&label=Views&color=14CF93&style=flat-square"/>
+  <b>Building scalable systems • Solving real-world problems • Shipping production-ready solutions</b>
 </p>
 
 ---
@@ -40,114 +34,100 @@
 
 ---
 
-## 🧠 Engineering Philosophy
+# 👨‍💻 About Me
 
-| Focus | Execution |
-|------|-----------|
-| Product Thinking | UI solves real problems |
-| Architecture | Scalable, modular systems |
-| Performance | Treated as a feature |
-| Motion | Meaningful, not decorative |
-| Iteration | Ship → Measure → Improve |
+I’m a **Full Stack Developer with hands-on industry experience**, focused on building **scalable backend systems and ML-driven applications**.
 
-> _Readable systems scale faster than clever hacks._
+- 💼 **Junior Associate @ OctaScale Technologies**
+- ⚙️ Experience in **real-time systems & production debugging**
+- 🧠 Strong foundation in **Machine Learning + Data Systems**
+- 🌐 Built **5+ full-stack applications (MERN + AI)**
+- 🚀 Passionate about **system design & problem solving**
 
 ---
 
-## 🏆 Professional Highlights
+# 🏆 Professional Highlights
 
-<!-- GitHub Trophy (fixed & lighter) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-kesharwani&theme=flat&no-frame=true&column=6" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashutosh-kesharwani&theme=tokyonight" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashutosh-kesharwani&theme=tokyonight" height="150"/>
-</p>
-
-- 🏅 **Top 10 — UHack (UCER)**
-- 💼 **Junior Associate (Software / Tech)**
-- 🧠 **ML + System Thinking Foundation**
-- 🧩 **Active DSA & Logic Builder**
+- 🏅 **Top 10 — UHack Hackathon (UCER)**
+- 💼 Working on **Global Supply Chain Monitoring System**
+- ⚡ Improved API performance & fixed production issues
+- 🧩 Delivered **5+ freelance projects end-to-end**
 
 ---
 
-## 👨‍💻 About Me
+# ⚙️ Tech Stack
 
-Frontend-first **Full Stack Engineer** focused on **motion, DX, and scalable UI systems**.  
-I build end-to-end products — from **micro-interactions** to **APIs & ML workflows**.
+### 💻 Languages
+C++ • JavaScript • Python • SQL • Ruby
 
-- 🎓 Computer Science Engineering (ongoing)
-- 🎨 UI motion & interaction clarity
-- 🏗 Full-stack + ML systems
-- ☁️ Cloud & scalable architecture
+### 🌐 Full Stack
+React.js • Node.js • Express.js • MongoDB • REST APIs
 
----
+### 🧠 Machine Learning
+Pandas • NumPy • Scikit-learn • Predictive Modeling
 
-## 🎨 Frontend Engineering · UI Motion
+### 🗄 Databases
+MongoDB • MySQL • PostgreSQL
 
-> **Frontend is system design at the user boundary.**
-
-**Principles**
-- Motion communicates intent
-- Predictable state & flows
-- Accessibility by default
-- Performance-aware rendering
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock.svg" width="36"/>
-</p>
+### ☁️ Tools & Cloud
+Git • GitHub • Postman • Jira • AWS • Firebase
 
 ---
 
-## ⚙️ Backend · ML · Cloud
+# 🚀 Key Projects
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="34"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws.svg" width="36"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-azure.svg" width="36"/>
-</p>
+### 🏥 Clinical Decision Support System (CDSS)
+- Built ML-based healthcare prediction system
+- Integrated classification models into web interface
+- Enabled real-time diagnosis support
 
 ---
 
-## 📊 GitHub Metrics
+### 🌐 GravityX (Developer Networking Platform)
+- Full-stack platform for developer portfolios
+- Integrated AI-based career prediction system
+- Built scalable MERN architecture
 
+---
 
+### 🥗 Nutri-AI (AI Nutrition Platform)
+- Image-based food recognition system
+- Generated calorie insights using AI APIs
+- Built complete MERN + Cloudinary pipeline
 
-<!-- Streaks (auto-hide if unavailable) -->
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ashutosh-kesharwani" />
-</p>
+---
 
+# 🧠 Engineering Mindset
 
+- Solve problems, not just write code  
+- Think in systems, not isolated features  
+- Optimize for performance & scalability  
+- Write clean, maintainable code  
 
+> _“Real engineering is about impact, not just implementation.”_
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📬 Let’s Collaborate
+# 📬 Let's Connect
 
+- 💼 Open to **Full-Time Opportunities (SDE / Backend / Full Stack)**
+- 🤝 Interested in **scalable systems & ML-based products**
 
-- Open to **internships & collaborations**
-- Interested in **UI engineering, ML systems & scalable products**
+📩 Reach out via LinkedIn or Portfolio
 
-> _Crafted with intent • Engineered for scale • Built to evolve_
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=100&section=footer&text=Ashutosh%20Kesharwani&fontSize=16&fontColor=14CF93"/>
