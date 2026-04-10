@@ -43,7 +43,6 @@ I’m a **Software Engineer with real-world industry experience**, specializing 
 - 🚀 Improved API performance & resolved **production-critical issues**
 - 🧠 Strong in **Machine Learning + System Design fundamentals**
 - 🌐 Built **5+ production-ready full-stack applications**
-- 🧩 Solved **300+ DSA problems (LeetCode + GFG)**
 
 ---
 
