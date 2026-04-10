@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+%7C+Backend+Engineer;ML-Driven+Product+Builder;Real-World+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=14CF93&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full+Stack+Developer;Backend+%26+Systems+Focused;ML-Driven+Product+Builder;300%2B+DSA+Problems+Solved" />
 </p>
 
 <p align="center">
-  <b>Building scalable systems • Solving real-world problems • Shipping production-ready solutions</b>
+  <b>Engineering scalable systems • Solving production problems • Building impactful products</b>
 </p>
 
 ---
@@ -36,22 +36,24 @@
 
 # 👨‍💻 About Me
 
-I’m a **Full Stack Developer with hands-on industry experience**, focused on building **scalable backend systems and ML-driven applications**.
+I’m a **Software Engineer with real-world industry experience**, specializing in **backend systems, full-stack development, and ML-driven applications**.
 
 - 💼 **Junior Associate @ OctaScale Technologies**
-- ⚙️ Experience in **real-time systems & production debugging**
-- 🧠 Strong foundation in **Machine Learning + Data Systems**
-- 🌐 Built **5+ full-stack applications (MERN + AI)**
-- 🚀 Passionate about **system design & problem solving**
+- ⚙️ Working on **real-time supply chain monitoring systems**
+- 🚀 Improved API performance & resolved **production-critical issues**
+- 🧠 Strong in **Machine Learning + System Design fundamentals**
+- 🌐 Built **5+ production-ready full-stack applications**
+- 🧩 Solved **300+ DSA problems (LeetCode + GFG)**
 
 ---
 
 # 🏆 Professional Highlights
 
 - 🏅 **Top 10 — UHack Hackathon (UCER)**
-- 💼 Working on **Global Supply Chain Monitoring System**
-- ⚡ Improved API performance & fixed production issues
-- 🧩 Delivered **5+ freelance projects end-to-end**
+- ⚡ Optimized backend APIs → improved response time (~10%)
+- 🛠 Resolved **high-priority production bugs in live systems**
+- 🌍 Delivered **5+ freelance projects end-to-end**
+- 🔄 Experience with **real-time data & scalable systems**
 
 ---
 
@@ -77,45 +79,49 @@ Git • GitHub • Postman • Jira • AWS • Firebase
 # 🚀 Key Projects
 
 ### 🏥 Clinical Decision Support System (CDSS)
-- Built ML-based healthcare prediction system
-- Integrated classification models into web interface
-- Enabled real-time diagnosis support
+- Built ML-based healthcare prediction system (~85% accuracy)
+- Integrated models into web interface for real-time diagnosis
+- Reduced manual analysis effort significantly
 
 ---
 
 ### 🌐 GravityX (Developer Networking Platform)
 - Full-stack platform for developer portfolios
+- Designed scalable MERN architecture
 - Integrated AI-based career prediction system
-- Built scalable MERN architecture
 
 ---
 
 ### 🥗 Nutri-AI (AI Nutrition Platform)
 - Image-based food recognition system
 - Generated calorie insights using AI APIs
-- Built complete MERN + Cloudinary pipeline
+- Built complete MERN + Cloud pipeline
 
 ---
 
 # 🧠 Engineering Mindset
 
-- Solve problems, not just write code  
-- Think in systems, not isolated features  
-- Optimize for performance & scalability  
-- Write clean, maintainable code  
+- Think in **systems, not just features**  
+- Focus on **performance, scalability & reliability**  
+- Debug deeply → solve root cause  
+- Write **clean, maintainable, production-ready code**  
 
-> _“Real engineering is about impact, not just implementation.”_
+> _“Good code works. Great engineering scales.”_
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -123,7 +129,7 @@ Git • GitHub • Postman • Jira • AWS • Firebase
 # 📬 Let's Connect
 
 - 💼 Open to **Full-Time Opportunities (SDE / Backend / Full Stack)**
-- 🤝 Interested in **scalable systems & ML-based products**
+- 🤝 Interested in **scalable systems, backend engineering & ML products**
 
 📩 Reach out via LinkedIn or Portfolio
 
