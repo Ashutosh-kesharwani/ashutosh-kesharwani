@@ -49,7 +49,6 @@ I’m a **Software Engineer with real-world industry experience**, specializing 
 # 🏆 Professional Highlights
 
 - 🏅 **Top 10 — UHack Hackathon (UCER)**
-- ⚡ Optimized backend APIs → improved response time (~10%)
 - 🛠 Resolved **high-priority production bugs in live systems**
 - 🌍 Delivered **5+ freelance projects end-to-end**
 - 🔄 Experience with **real-time data & scalable systems**
