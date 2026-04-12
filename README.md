@@ -114,9 +114,7 @@ Git • GitHub • Postman • Jira • AWS • Firebase
   <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-kesharwani&theme=tokyo-night&hide_border=true"/>
