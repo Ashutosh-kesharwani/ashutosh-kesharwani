@@ -111,7 +111,7 @@ Git • GitHub • Postman • Jira • AWS • Firebase
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-kesharwani&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ashutosh-kesharwani&theme=tokyonight&hide_border=true"/>
 </p>
 
 
