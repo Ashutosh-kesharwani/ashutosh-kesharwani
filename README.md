@@ -49,7 +49,7 @@ I’m a Software Developer Intern with hands-on experience in backend systems, f
 
 - 🏅 **Top 10 — UHack Hackathon (UCER)**
 - 🛠 Resolved **high-priority production bugs in live systems**
-- 🌍 Delivered **5+ freelance projects end-to-end**
+- 🌍 Delivered ** freelance projects end-to-end**
 - 🔄 Experience with **real-time data & scalable systems**
 
 ---
