@@ -36,12 +36,12 @@
 
 # 👨‍💻 About Me
 
-I’m a **Software Engineer with real-world industry experience**, specializing in **backend systems, full-stack development, and ML-driven applications**.
-- 💼 **Junior Associate @ OctaScale Technologies**
-- ⚙️ Working on **real-time supply chain monitoring systems**
-- 🚀 Improved API performance & resolved **production-critical issues**
-- 🧠 Strong in **Machine Learning + System Design fundamentals**
-- 🌐 Built **5+ production-ready full-stack applications**
+I’m a Software Developer Intern with hands-on experience in backend systems, full-stack development, and ML-driven applications.
+* 💼 Software Developer Intern @ OctaScale Technologies
+* ⚙️ Worked on real-time supply chain monitoring systems
+* 🚀 Improved API performance and resolved production-level issues
+* 🧠 Strong in Machine Learning and system design fundamentals
+* 🌐 Built full-stack applications using the MERN stack
 
 ---
 
