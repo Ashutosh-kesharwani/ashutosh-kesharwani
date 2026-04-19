@@ -56,19 +56,19 @@ I’m a Software Developer Intern with hands-on experience in backend systems, f
 # ⚙️ Tech Stack
 
 ### 💻 Languages
-C++ • JavaScript • Python • SQL • Ruby
+C++ • JavaScript • Python • SQL 
 
 ### 🌐 Full Stack
-React.js • Node.js • Express.js • MongoDB • REST APIs
+React.js • Node.js • Express.js • MongoDB 
 
 ### 🧠 Machine Learning
-Pandas • NumPy • Scikit-learn • Predictive Modeling
+ Scikit-learn • Predictive Modeling
 
 ### 🗄 Databases
-MongoDB • MySQL • PostgreSQL
+MongoDB • MySQL 
 
 ### ☁️ Tools & Cloud
-Git • GitHub • Postman • Jira • AWS • Firebase
+Git • GitHub • Postman • Jira • AWS 
 
 ---
 
